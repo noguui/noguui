@@ -1,4 +1,3 @@
-# 💫 About Me:
 o pai aqui ta on nos codigos
 
 
