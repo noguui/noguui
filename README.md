@@ -1,7 +1,4 @@
 ja me segue ai 
-
-
-## 🌐 redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guigaxz7_) 
 
 # 💻 minhas habilidades:
